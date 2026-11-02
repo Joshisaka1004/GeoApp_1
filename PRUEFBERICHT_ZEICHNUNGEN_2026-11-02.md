@@ -1,5 +1,8 @@
 # Zeichnerische Prüfung von GeoApp_1
 
+> **Aktueller Status nach der Nachprüfung vom 02.11.2026:** Alle drei hier beschriebenen mittleren Befunde sind in den korrigierten Fassungen behoben. Siehe [Nachprüfung der Korrekturen](NACHPRUEFUNG_ZEICHNUNGEN_2026-11-02.md). Der folgende ursprüngliche Bericht bleibt als Dokumentation des früheren Stands erhalten.
+
+
 Prüfer: Codex. Geprüft am 02.11.2026. Repository: [Joshisaka1004/GeoApp_1](https://github.com/Joshisaka1004/GeoApp_1), Branch `main`, Commit `f073ad9b1022f62d7b4a06ade03c1e2bbfd0363f`.
 
 ## Einschätzung
